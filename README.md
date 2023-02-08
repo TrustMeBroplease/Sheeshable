@@ -5,3 +5,5 @@ school
   1. 9-arrowsmith
 2. Class number 41
 3. Ateneo de Naga University
+	[game](https://krunker.io/?game)
+		[music](https://youtu.be/Ri2v_1Zu9SE)
